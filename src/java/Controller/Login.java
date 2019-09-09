@@ -16,10 +16,6 @@ import javax.servlet.http.HttpSession;
 import model.Main;
 import model.UserAccount;
 
-/**
- *
- * @author Alok Hirwe
- */
 public class Login extends HttpServlet {
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
