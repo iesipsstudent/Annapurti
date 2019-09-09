@@ -10,11 +10,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-
-/**
- *
- * @author Alok Hirwe
- */
 public class Main {
 
     private UserAccount user;
