@@ -9,10 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import model.LoginAuthenticator;
 
-/**
- *
- * @author Pankaj
- */
+
 public class LoginChecker extends HttpServlet 
 {
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
