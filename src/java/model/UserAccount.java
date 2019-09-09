@@ -13,10 +13,6 @@ import java.io.Serializable;
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/**
- *
- * @author Alok Hirwe
- */
 public class UserAccount implements Serializable {
 
     private String username = null;
