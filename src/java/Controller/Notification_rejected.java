@@ -17,10 +17,6 @@ import javax.servlet.http.HttpSession;
 import model.Main;
 import model.UserAccount;
 
-/**
- *
- * @author Alok Hirwe
- */
 public class Notification_rejected extends HttpServlet {
 
    public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
