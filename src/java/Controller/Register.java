@@ -15,10 +15,6 @@ import javax.servlet.http.HttpSession;
 import model.LoginAuthenticator;
 import model.Main;
 
-/**
- *
- * @author Alok Hirwe
- */
 public class Register extends HttpServlet {
      @Override
      public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
