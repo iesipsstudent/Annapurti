@@ -5,10 +5,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- *
- * @author Pankaj
- */
 public class LoginAuthenticator 
 {
     public boolean isLogin(String username,String password,String type)
