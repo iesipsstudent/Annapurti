@@ -4,11 +4,6 @@
  * and open the template in the editor.
  */
 package model;
-
-/**
- *
- * @author Alok Hirwe
- */
 public class Ngo_data {
     
     public String[] ngo_info()
